@@ -5,6 +5,8 @@ https://www.trufflesuite.com/tutorial
 
 All of the code here came from the truffle box of the tutorial^.
 
+![Alt text](/adopt_petstore.gif?raw=true "Pet store blockchain demo")
+
 1. Install Truffle
     ```
     npm install -g truffle
