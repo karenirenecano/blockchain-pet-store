@@ -85,6 +85,7 @@ App = {
               .find('button')
               .text('Success')
               .attr('disabled', true)
+              .addClass('btn-success')
           }
         }
       })
